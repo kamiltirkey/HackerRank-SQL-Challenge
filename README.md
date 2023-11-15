@@ -1,4 +1,4 @@
 # HackerRank-SQL-Challenge
-HackerRank-SQL-Challenge and Solutions
+HackerRank-SQL-Challenges and Solutions
 <br>
 SQL Basic
